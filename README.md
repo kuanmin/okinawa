@@ -14,7 +14,7 @@
 - 可同時開啟谷歌地圖瀏覽[點我開啟地圖](https://maps.app.goo.gl/SUMSrGQYzKQ6JfRt6)
 
 ## 以下為AI介紹:
-- [點我打開網頁](https://chatgpt.com/share/6a9b14bf-7150-83eb-bd73-ecbf0c49c59d). 
+- [點我打開網頁](https://chatgpt.com/s/t_6a9b1579fb4481919af4424308536dd1). 
 
 ## 圖1:
 <p align="center">
