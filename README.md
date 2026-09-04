@@ -17,7 +17,7 @@
 
 ## 圖1:
 <p align="center">
-  <img width="800%" height="100%" src="https://github.com/kuanmin/okinawa/blob/main/pic_1.png">
+  <img width="800%" height="50%" src="https://github.com/kuanmin/okinawa/blob/main/pic_1.png">
 </p>
 
 # 🎒 建議景點參觀順序安排(見上圖1):
@@ -28,7 +28,7 @@
 
 # 🗺️ 本島簡要地圖(圖2):
 <p align="center">
-  <img width="800%" height="100%" src="https://github.com/kuanmin/okinawa/blob/main/pic_2.png">
+  <img width="800%" height="50%" src="https://github.com/kuanmin/okinawa/blob/main/pic_2.png">
 </p>
 
 # 建議晚上住宿地點(見上圖2):
