@@ -11,9 +11,10 @@
   - 2月15日 (一) - 沖繩16:45 - 台中17:35
 
 # ⛰️ 建議沖繩景點:
-可同時開啟谷歌地圖瀏覽[點我開啟地圖](https://maps.app.goo.gl/SUMSrGQYzKQ6JfRt6)
+- 可同時開啟谷歌地圖瀏覽[點我開啟地圖](https://maps.app.goo.gl/SUMSrGQYzKQ6JfRt6)
 
 ## 以下為AI介紹:
+- [點我打開網頁](https://chatgpt.com/share/6a9b14bf-7150-83eb-bd73-ecbf0c49c59d). 
 
 ## 圖1:
 <p align="center">
