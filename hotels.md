@@ -20,7 +20,7 @@
 - 別名:TWIN-LINE HOTEL YANBARU
 - 官網: [點我打開](https://twin-line-hotel-yanbaru.jp/tw/)
 - 地圖位置: [點我打開](https://maps.app.goo.gl/d3iyAn5ufCt1QbeZ8)
-- 2023年8月12日全館翻新
+- 2023年8月全館翻新
 - 過馬路就能抵達知名的幸喜海灘
 - 4人房 / 44平方公尺 / 1間 / 含早餐 / 總共 6,072台幣 
 - 生啤酒、泡盛、清酒、Highball、各式調酒及軟性飲料免費喝到飽。
