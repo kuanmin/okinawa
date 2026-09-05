@@ -39,8 +39,8 @@
 - 官網: [點我打開](https://zh-hant.kanucha.jp/)
 - 地圖位置: [點我打開](https://maps.app.goo.gl/iAYpLoeCChAFDNr68)
 - 4人房 / 65平方公尺 / 1 間 / 含早餐 / 總共 9,931台幣
-- YouTube影片: [點我打開](https://www.youtube.com/watch?v=_i8kqDLQzQk)
 - 飯店附近平價餐廳「あぶ」 [點我打開](https://maps.app.goo.gl/umf6SS6X6JYKkss98)
+- YouTube影片: [點我打開](https://www.youtube.com/watch?v=_i8kqDLQzQk)
 
 # 2/14 (日) 南門飯店 (官網訂房、入住付款)
 - 別名: South Gate Hotel
